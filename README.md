@@ -1,6 +1,8 @@
 ## Money Tracker
 
-Chat-GPT said:
+One day I had an urgent need to use a money tracker that I could use on my phone and my pc, so instead of installing an existing app, I preferred to create one, because I am a dev, so I could create something while having fun doing it :) 
+So I asked ChatGPT for some guidance, and it responded:
+
 To create a money tracker app on Windows and iOS, I recommend using the following technologies:
 
 #### Technologies
@@ -20,3 +22,5 @@ Also, you might consider using a navigation library such as Prism or MVVMCross t
 
 In general, it is important to keep in mind that the choice of technologies and architecture 
 will depend on the specific needs of your project, so I recommend that you carefully consider your options and do your research before deciding.
+
+##### So, this is how MoneyTracker was born. 
